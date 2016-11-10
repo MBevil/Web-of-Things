@@ -1,0 +1,5 @@
+Temperature: 100Light: 100
+Temperature: 100Light: 100
+Temperature: 100Light: 100
+Temperature: 100Light: 100
+Temperature: 100 Light: 100
