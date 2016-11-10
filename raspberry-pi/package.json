@@ -1,0 +1,22 @@
+{
+  "name": "raspberry-pi",
+  "version": "1.0.0",
+  "description": "Raspberry Pi Demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbevil/Web-of-Things.git"
+  },
+  "author": "Mike Bevil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbevil/Web-of-Things/issues"
+  },
+  "homepage": "https://github.com/mbevil/Web-of-Things#readme",
+  "dependencies": {
+    "onoff": "^1.1.1"
+  }
+}
